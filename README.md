@@ -13,7 +13,7 @@ OpenCV (image processing and real-time video analysis)📷💻
 scikit-learn (model training, classification, and evaluation)🧠📊
 Technically, this project involves computer vision, feature extraction, supervised learning, and real-time inference, while also highlighting the importance of building assistive technologies with meaningful social impact
 This work is a blend of technology and humanitarian application, and I’m excited to continue improving and expanding it.💻🤝🌍
-Below I am attaching some SS of my work.
+Below I am attaching some screenshots of my work.
 ## Handshape Detect
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8e15a091-8243-4374-8122-8e7181862066" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5d17ebb9-0086-47c3-abbe-2ae245a5d8d4" />
